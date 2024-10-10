@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgba(128, 128, 128, 0.39);
+}
+
+body {
+  background-image: url(https://img.freepik.com/vetores-premium/conceito-de-saude-e-tecnologia-abstrato-moderno-com-simbolo-medico-e-padrao-hexagonal_236657-1688.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+input{
+  font-size: 15px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  color: white;
+}
